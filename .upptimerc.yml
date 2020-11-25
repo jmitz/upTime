@@ -8,6 +8,10 @@ sites:
     url: http://www.tremontgallery.com
   - name: Yellowstone Research
     url: http://yellowstone.jdmitz.com
+  - name: Peoria SDA
+    url: http://peoriasda.org
+  - name: JustBee
+    url: https://shop.justbee.us/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
