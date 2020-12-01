@@ -3,25 +3,25 @@
     "name": "Tremont Gallery",
     "url": "http://www.tremontgallery.com",
     "slug": "tremont-gallery",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 320
+    "status": "up",
+    "uptime": "98.90%",
+    "time": 307
   },
   {
     "name": "Yellowstone Research",
     "url": "http://yellowstone.jdmitz.com",
     "slug": "yellowstone-research",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 260
+    "status": "up",
+    "uptime": "98.90%",
+    "time": 238
   },
   {
     "name": "Peoria SDA",
     "url": "http://peoriasda.org",
     "slug": "peoria-sda",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 1777
+    "status": "up",
+    "uptime": "98.78%",
+    "time": 1941
   },
   {
     "name": "JustBee",
@@ -29,6 +29,6 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "100.00%",
-    "time": 447
+    "time": 456
   }
 ]
