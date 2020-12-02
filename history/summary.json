@@ -4,7 +4,7 @@
     "url": "http://www.tremontgallery.com",
     "slug": "tremont-gallery",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "time": 307
   },
   {
@@ -19,9 +19,9 @@
     "name": "Peoria SDA",
     "url": "http://peoriasda.org",
     "slug": "peoria-sda",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "time": 1941
+    "time": 1764
   },
   {
     "name": "JustBee",
