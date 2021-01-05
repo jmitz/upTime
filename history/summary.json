@@ -5,7 +5,7 @@
     "slug": "tremont-gallery",
     "status": "up",
     "uptime": "99.81%",
-    "time": 284
+    "time": 286
   },
   {
     "name": "Yellowstone Research",
@@ -13,15 +13,15 @@
     "slug": "yellowstone-research",
     "status": "up",
     "uptime": "99.81%",
-    "time": 213
+    "time": 215
   },
   {
     "name": "Peoria SDA",
     "url": "http://peoriasda.org",
     "slug": "peoria-sda",
     "status": "up",
-    "uptime": "99.75%",
-    "time": 2003
+    "uptime": "99.76%",
+    "time": 2006
   },
   {
     "name": "JustBee",
@@ -29,6 +29,6 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "100.00%",
-    "time": 334
+    "time": 339
   }
 ]
