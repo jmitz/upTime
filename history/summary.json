@@ -20,8 +20,8 @@
     "url": "http://peoriasda.org",
     "slug": "peoria-sda",
     "status": "up",
-    "uptime": "99.79%",
-    "time": 1985
+    "uptime": "99.80%",
+    "time": 1987
   },
   {
     "name": "JustBee",
@@ -29,6 +29,6 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "100.00%",
-    "time": 337
+    "time": 335
   }
 ]
