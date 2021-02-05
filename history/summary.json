@@ -13,7 +13,7 @@
     "slug": "yellowstone-research",
     "status": "up",
     "uptime": "99.89%",
-    "time": 216
+    "time": 215
   },
   {
     "name": "Peoria SDA",
@@ -21,7 +21,7 @@
     "slug": "peoria-sda",
     "status": "up",
     "uptime": "99.86%",
-    "time": 2000
+    "time": 1999
   },
   {
     "name": "JustBee",
@@ -29,6 +29,6 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "100.00%",
-    "time": 330
+    "time": 329
   }
 ]
