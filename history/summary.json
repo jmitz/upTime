@@ -5,7 +5,7 @@
     "slug": "tremont-gallery",
     "status": "up",
     "uptime": "99.91%",
-    "time": 284
+    "time": 283
   },
   {
     "name": "Yellowstone Research",
@@ -21,7 +21,7 @@
     "slug": "peoria-sda",
     "status": "up",
     "uptime": "99.87%",
-    "time": 1976
+    "time": 1977
   },
   {
     "name": "JustBee",
@@ -29,6 +29,6 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "100.00%",
-    "time": 310
+    "time": 309
   }
 ]
