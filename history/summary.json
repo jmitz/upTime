@@ -21,14 +21,14 @@
     "slug": "peoria-sda",
     "status": "up",
     "uptime": "99.91%",
-    "time": 2048
+    "time": 2050
   },
   {
     "name": "JustBee",
     "url": "https://shop.justbee.us/",
     "slug": "just-bee",
     "status": "up",
-    "uptime": "99.79%",
-    "time": 281
+    "uptime": "100.00%",
+    "time": 282
   }
 ]
