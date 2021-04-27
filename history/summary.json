@@ -21,7 +21,7 @@
     "slug": "peoria-sda",
     "status": "up",
     "uptime": "99.93%",
-    "time": 2065
+    "time": 2055
   },
   {
     "name": "JustBee",
@@ -29,6 +29,6 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "100.00%",
-    "time": 269
+    "time": 268
   }
 ]
