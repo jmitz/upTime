@@ -2,33 +2,81 @@
   {
     "name": "Tremont Gallery",
     "url": "http://www.tremontgallery.com",
+    "icon": "https://favicons.githubusercontent.com/www.tremontgallery.com",
     "slug": "tremont-gallery",
     "status": "up",
     "uptime": "99.96%",
-    "time": 267
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
+    "time": 280,
+    "timeDay": 264,
+    "timeWeek": 254,
+    "timeMonth": 262,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2020-12-01": 111
+    }
   },
   {
     "name": "Yellowstone Research",
     "url": "http://gyccscience.org",
+    "icon": "https://favicons.githubusercontent.com/gyccscience.org",
     "slug": "yellowstone-research",
     "status": "up",
     "uptime": "99.96%",
-    "time": 193
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
+    "time": 206,
+    "timeDay": 207,
+    "timeWeek": 205,
+    "timeMonth": 199,
+    "timeYear": 206,
+    "dailyMinutesDown": {
+      "2020-12-01": 111
+    }
   },
   {
     "name": "Peoria SDA",
     "url": "http://peoriasda.org",
+    "icon": "https://favicons.githubusercontent.com/peoriasda.org",
     "slug": "peoria-sda",
     "status": "up",
     "uptime": "99.94%",
-    "time": 2097
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
+    "time": 2094,
+    "timeDay": 2193,
+    "timeWeek": 2193,
+    "timeMonth": 2146,
+    "timeYear": 2094,
+    "dailyMinutesDown": {
+      "2021-02-15": 20,
+      "2020-12-02": 30,
+      "2020-12-01": 111
+    }
   },
   {
     "name": "JustBee",
     "url": "https://shop.justbee.us/",
+    "icon": "https://favicons.githubusercontent.com/shop.justbee.us",
     "slug": "just-bee",
     "status": "up",
     "uptime": "100.00%",
-    "time": 262
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 289,
+    "timeDay": 162,
+    "timeWeek": 263,
+    "timeMonth": 280,
+    "timeYear": 289,
+    "dailyMinutesDown": {}
   }
 ]
