@@ -24,9 +24,9 @@
     "url": "http://gyccscience.org",
     "icon": "https://favicons.githubusercontent.com/gyccscience.org",
     "slug": "yellowstone-research",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -36,6 +36,7 @@
     "timeMonth": 185,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2021-06-10": 0,
       "2020-12-01": 111
     }
   },
