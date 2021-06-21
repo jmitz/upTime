@@ -1,7 +1,7 @@
 url: http://peoriasda.org
-status: up
-code: 200
-responseTime: 1070
-lastUpdated: 2021-06-21T01:08:31.032Z
+status: down
+code: 500
+responseTime: 194
+lastUpdated: 2021-06-21T04:43:44.432Z
 startTime: Wed Nov 25 2020 15:38:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
