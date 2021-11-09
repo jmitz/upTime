@@ -70,17 +70,19 @@
     "url": "https://shop.justbee.us/",
     "icon": "https://favicons.githubusercontent.com/shop.justbee.us",
     "slug": "just-bee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 151,
-    "timeWeek": 236,
-    "timeMonth": 217,
+    "timeDay": 157,
+    "timeWeek": 227,
+    "timeMonth": 215,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-09": 0
+    }
   }
 ]
