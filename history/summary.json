@@ -24,9 +24,9 @@
     "url": "http://gyccscience.org",
     "icon": "https://favicons.githubusercontent.com/gyccscience.org",
     "slug": "yellowstone-research",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 275,
     "timeMonth": 278,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "Peoria SDA",
