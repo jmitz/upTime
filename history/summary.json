@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 177,
+    "timeDay": 190,
     "timeWeek": 214,
     "timeMonth": 217,
     "timeYear": 244,
@@ -24,9 +24,9 @@
     "url": "http://gyccscience.org",
     "icon": "https://favicons.githubusercontent.com/gyccscience.org",
     "slug": "yellowstone-research",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 264,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2022-02-10": 0,
       "2021-12-15": 24
     }
   },
@@ -51,7 +52,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 1862,
-    "timeDay": 1341,
+    "timeDay": 1482,
     "timeWeek": 719,
     "timeMonth": 666,
     "timeYear": 1821,
