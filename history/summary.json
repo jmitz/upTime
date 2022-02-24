@@ -4,19 +4,19 @@
     "url": "http://www.tremontgallery.com",
     "icon": "https://favicons.githubusercontent.com/www.tremontgallery.com",
     "slug": "tremont-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 253,
     "timeDay": 253,
     "timeWeek": 243,
     "timeMonth": 233,
-    "timeYear": 243,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-02-24": 8,
+      "2022-02-24": 1,
       "2021-10-22": 63
     }
   },
@@ -29,15 +29,15 @@
     "uptime": "96.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.77%",
-    "uptimeYear": "96.14%",
+    "uptimeMonth": "53.68%",
+    "uptimeYear": "96.13%",
     "time": 222,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 264,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-02-24": 1393,
+      "2022-02-24": 1434,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
@@ -70,7 +70,7 @@
     "timeDay": 576,
     "timeWeek": 447,
     "timeMonth": 577,
-    "timeYear": 1762,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2022-01-15": 26,
       "2021-10-22": 62,
@@ -93,7 +93,7 @@
     "timeDay": 274,
     "timeWeek": 223,
     "timeMonth": 235,
-    "timeYear": 243,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   }
 ]
