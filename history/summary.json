@@ -29,7 +29,7 @@
     "uptime": "96.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.61%",
+    "uptimeMonth": "66.80%",
     "uptimeYear": "95.92%",
     "time": 225,
     "timeDay": 74,
@@ -84,17 +84,19 @@
     "url": "https://shop.justbee.us/",
     "icon": "https://favicons.githubusercontent.com/shop.justbee.us",
     "slug": "just-bee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 241,
-    "timeWeek": 260,
-    "timeMonth": 228,
+    "timeDay": 163,
+    "timeWeek": 238,
+    "timeMonth": 223,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   }
 ]
