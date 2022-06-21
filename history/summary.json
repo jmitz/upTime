@@ -74,7 +74,7 @@
     "timeDay": 987,
     "timeWeek": 852,
     "timeMonth": 2022,
-    "timeYear": 1430,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2022-06-12": 46,
       "2022-04-14": 15,
@@ -90,18 +90,19 @@
     "url": "https://shop.justbee.us/",
     "icon": "https://favicons.githubusercontent.com/shop.justbee.us",
     "slug": "just-bee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 153,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 229,
+    "timeDay": 135,
+    "timeWeek": 196,
+    "timeMonth": 206,
+    "timeYear": 228,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-11": 19
     }
   }
