@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
-    "time": 256,
-    "timeDay": 198,
-    "timeWeek": 232,
+    "time": 255,
+    "timeDay": 191,
+    "timeWeek": 230,
     "timeMonth": 224,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -20,8 +20,7 @@
       "2022-10-05": 16,
       "2022-03-21": 127,
       "2022-03-20": 86,
-      "2022-03-19": 37,
-      "2022-02-25": 15
+      "2022-03-19": 37
     }
   },
   {
@@ -34,15 +33,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.79%",
     "time": 255,
-    "timeDay": 153,
-    "timeWeek": 165,
-    "timeMonth": 194,
-    "timeYear": 252,
-    "dailyMinutesDown": {
-      "2022-02-25": 1123
-    }
+    "timeDay": 290,
+    "timeWeek": 180,
+    "timeMonth": 193,
+    "timeYear": 253,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Peoria SDA",
@@ -55,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1048,
-    "timeDay": 943,
-    "timeWeek": 850,
-    "timeMonth": 960,
-    "timeYear": 1068,
+    "time": 1046,
+    "timeDay": 1249,
+    "timeWeek": 870,
+    "timeMonth": 958,
+    "timeYear": 1069,
     "dailyMinutesDown": {
       "2023-01-25": 22,
       "2022-08-27": 25,
@@ -82,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 288,
-    "timeDay": 713,
-    "timeWeek": 582,
-    "timeMonth": 760,
+    "timeDay": 202,
+    "timeWeek": 587,
+    "timeMonth": 743,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2022-11-24": 23,
