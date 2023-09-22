@@ -69,9 +69,9 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 330,
     "timeDay": 289,
@@ -79,7 +79,6 @@
     "timeMonth": 297,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-09-21": 7,
       "2023-07-26": 22,
       "2022-11-24": 23,
       "2022-11-07": 44
