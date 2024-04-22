@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 167,
-    "timeWeek": 240,
+    "timeWeek": 220,
     "timeMonth": 218,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -24,9 +24,9 @@
     "url": "http://gyccscience.org",
     "icon": "https://icons.duckduckgo.com/ip3/gyccscience.org.ico",
     "slug": "yellowstone-research",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 200,
     "timeMonth": 311,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 0
+    }
   },
   {
     "name": "Peoria SDA",
@@ -45,14 +47,14 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 1203,
     "timeDay": 1282,
-    "timeWeek": 2973,
+    "timeWeek": 1079,
     "timeMonth": 1565,
-    "timeYear": 1299,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2024-04-15": 32,
       "2023-10-22": 130,
