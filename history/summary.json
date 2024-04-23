@@ -24,11 +24,11 @@
     "url": "http://gyccscience.org",
     "icon": "https://icons.duckduckgo.com/ip3/gyccscience.org.ico",
     "slug": "yellowstone-research",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "57.33%",
-    "uptimeWeek": "93.90%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "57.70%",
+    "uptimeWeek": "93.96%",
+    "uptimeMonth": "98.61%",
     "uptimeYear": "99.88%",
     "time": 290,
     "timeDay": 1529,
@@ -36,7 +36,7 @@
     "timeMonth": 747,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-04-23": 275,
+      "2024-04-23": 270,
       "2024-04-22": 339
     }
   },
