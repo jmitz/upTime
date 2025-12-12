@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 184,
-    "timeWeek": 204,
+    "timeDay": 219,
+    "timeWeek": 211,
     "timeMonth": 224,
     "timeYear": 252,
     "dailyMinutesDown": {}
@@ -27,11 +27,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "73.02%",
+    "uptimeYear": "73.20%",
     "time": 443,
-    "timeDay": 421,
-    "timeWeek": 346,
-    "timeMonth": 348,
+    "timeDay": 283,
+    "timeWeek": 322,
+    "timeMonth": 343,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2025-11-18": 148,
@@ -131,8 +131,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -147,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1351,
-    "timeDay": 1272,
-    "timeWeek": 1094,
-    "timeMonth": 1105,
-    "timeYear": 1220,
+    "timeDay": 1340,
+    "timeWeek": 1150,
+    "timeMonth": 1125,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2025-03-07": 61
     }
@@ -162,17 +161,16 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.98%",
-    "time": 409,
-    "timeDay": 497,
-    "timeWeek": 487,
-    "timeMonth": 597,
-    "timeYear": 444,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 411,
+    "timeDay": 872,
+    "timeWeek": 583,
+    "timeMonth": 570,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-12-11": 11,
       "2025-12-05": 31,
       "2025-08-07": 16,
       "2025-03-18": 24
