@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 198,
-    "timeWeek": 212,
-    "timeMonth": 239,
-    "timeYear": 254,
+    "timeDay": 222,
+    "timeWeek": 216,
+    "timeMonth": 238,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gyccscience.org.ico",
     "slug": "yellowstone-research",
     "status": "up",
-    "uptime": "82.08%",
+    "uptime": "82.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.36%",
+    "uptimeYear": "77.58%",
     "time": 460,
-    "timeDay": 483,
-    "timeWeek": 460,
-    "timeMonth": 569,
+    "timeDay": 498,
+    "timeWeek": 466,
+    "timeMonth": 576,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2025-11-18": 148,
@@ -115,8 +115,7 @@
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
-      "2024-12-29": 1440,
-      "2024-12-28": 1440
+      "2024-12-29": 1440
     }
   },
   {
@@ -130,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1343,
-    "timeDay": 996,
-    "timeWeek": 1055,
-    "timeMonth": 1114,
-    "timeYear": 1218,
+    "time": 1342,
+    "timeDay": 1382,
+    "timeWeek": 1107,
+    "timeMonth": 1130,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-03-07": 61
     }
@@ -146,17 +145,17 @@
     "slug": "just-bee",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 426,
+    "time": 427,
     "timeDay": 579,
-    "timeWeek": 662,
-    "timeMonth": 659,
-    "timeYear": 467,
+    "timeWeek": 690,
+    "timeMonth": 684,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2025-12-27": 29,
+      "2025-12-27": 16,
       "2025-12-05": 31,
       "2025-08-07": 16,
       "2025-03-18": 24
