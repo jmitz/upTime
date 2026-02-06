@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 251,
-    "timeDay": 206,
-    "timeWeek": 240,
-    "timeMonth": 230,
-    "timeYear": 254,
+    "time": 250,
+    "timeDay": 329,
+    "timeWeek": 244,
+    "timeMonth": 234,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2026-01-30": 20,
       "2026-01-28": 15
@@ -27,15 +27,15 @@
     "slug": "yellowstone-research",
     "status": "up",
     "uptime": "82.46%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "88.26%",
-    "time": 450,
-    "timeDay": 374,
-    "timeWeek": 356,
-    "timeMonth": 382,
-    "timeYear": 450,
+    "uptimeYear": "88.53%",
+    "time": 449,
+    "timeDay": 181,
+    "timeWeek": 345,
+    "timeMonth": 376,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2026-02-04": 19,
       "2026-02-03": 20,
@@ -80,8 +80,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -96,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1222,
-    "timeDay": 1004,
-    "timeWeek": 2584,
-    "timeMonth": 1430,
-    "timeYear": 1241,
+    "timeDay": 932,
+    "timeWeek": 2641,
+    "timeMonth": 1429,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2025-03-07": 61
     }
@@ -116,9 +115,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 459,
-    "timeDay": 612,
-    "timeWeek": 772,
-    "timeMonth": 645,
+    "timeDay": 428,
+    "timeWeek": 745,
+    "timeMonth": 638,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2026-01-26": 18,
