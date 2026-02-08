@@ -11,8 +11,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 250,
-    "timeDay": 171,
-    "timeWeek": 239,
+    "timeDay": 167,
+    "timeWeek": 225,
     "timeMonth": 234,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gyccscience.org.ico",
     "slug": "yellowstone-research",
     "status": "up",
-    "uptime": "82.47%",
+    "uptime": "82.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "88.81%",
+    "uptimeYear": "89.08%",
     "time": 449,
-    "timeDay": 432,
-    "timeWeek": 347,
-    "timeMonth": 377,
+    "timeDay": 381,
+    "timeWeek": 340,
+    "timeMonth": 375,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2026-02-04": 19,
@@ -78,8 +78,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -93,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1222,
-    "timeDay": 1274,
-    "timeWeek": 2673,
-    "timeMonth": 1439,
-    "timeYear": 1241,
+    "time": 1224,
+    "timeDay": 2416,
+    "timeWeek": 2816,
+    "timeMonth": 1468,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2025-03-07": 61
     }
@@ -113,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
-    "time": 460,
-    "timeDay": 586,
-    "timeWeek": 734,
-    "timeMonth": 639,
-    "timeYear": 510,
+    "time": 462,
+    "timeDay": 1156,
+    "timeWeek": 783,
+    "timeMonth": 649,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2026-01-26": 18,
       "2026-01-08": 40,
