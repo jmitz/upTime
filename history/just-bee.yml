@@ -1,7 +1,7 @@
 url: https://shop.justbee.us/
-status: up
-code: 200
-responseTime: 371
-lastUpdated: 2026-03-25T23:12:10.440Z
+status: down
+code: 503
+responseTime: 187
+lastUpdated: 2026-03-26T19:56:24.192Z
 startTime: 2020-11-25T15:38:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
