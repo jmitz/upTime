@@ -51,20 +51,21 @@
     "url": "http://peoriasda.org",
     "icon": "https://icons.duckduckgo.com/ip3/peoriasda.org.ico",
     "slug": "peoria-sda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1104,
+    "time": 1105,
     "timeDay": 714,
     "timeWeek": 808,
     "timeMonth": 829,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2026-06-07": 110,
-      "2026-06-09": 66
+      "2026-06-09": 66,
+      "2026-07-25": 0
     }
   },
   {
