@@ -4,23 +4,24 @@
     "url": "http://www.tremontgallery.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tremontgallery.com.ico",
     "slug": "tremont-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 251,
-    "timeDay": 342,
-    "timeWeek": 252,
-    "timeMonth": 265,
+    "time": 250,
+    "timeDay": 187,
+    "timeWeek": 225,
+    "timeMonth": 258,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2026-01-28": 15,
       "2026-01-30": 20,
       "2026-02-28": 42,
       "2026-02-27": 0,
-      "2026-04-01": 73
+      "2026-04-01": 73,
+      "2026-08-07": 0
     }
   },
   {
