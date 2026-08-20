@@ -79,17 +79,17 @@
     "url": "https://shop.justbee.us/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.justbee.us.ico",
     "slug": "just-bee",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.89%",
-    "time": 569,
-    "timeDay": 1078,
-    "timeWeek": 857,
-    "timeMonth": 639,
-    "timeYear": 615,
+    "time": 570,
+    "timeDay": 1004,
+    "timeWeek": 844,
+    "timeMonth": 641,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2025-12-27": 16,
@@ -107,7 +107,7 @@
       "2026-07-17": 29,
       "2026-07-20": 81,
       "2026-07-22": 72,
-      "2026-08-20": 0
+      "2026-08-20": 14
     }
   }
 ]
